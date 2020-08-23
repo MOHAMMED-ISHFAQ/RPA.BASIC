@@ -1608,11 +1608,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "datatable uipath",
-      "projectName": "datatable uipath",
-      "projectPath": "C:\\Drivers\\RPA.BASIC\\RPA.BASIC\\datatable uipath\\.local",
+      "projectUniqueName": "notepad automation uipath",
+      "projectName": "notepad automation uipath",
+      "projectPath": "C:\\Users\\Home\\Documents\\UiPath\\notepad automation uipath\\.local",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Drivers\\RPA.BASIC\\RPA.BASIC\\datatable uipath\\.local"
+      "outputPath": "C:\\Users\\Home\\Documents\\UiPath\\notepad automation uipath\\.local"
     },
     "frameworks": {
       "net461": {
